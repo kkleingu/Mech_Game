@@ -1,6 +1,6 @@
 import random, os, math, time
-from Mech_Functions2 import *
-from Mech_Classes import *
+from Mech_Functions_CLI import *
+from Mech_Classes_CLI import *
 
 ########## Actual Game ############
 
