@@ -1,8 +1,8 @@
 import random, pygame, sys, copy
 from pygame.locals import *
 
-from Mech_Functions4 import *
-from Mech_Classes_4 import *
+from Mech_Functions_Pygame import *
+from Mech_Classes_Pygame import *
 
 
 FPS = 30 # frames per second, the general speed of the program
